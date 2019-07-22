@@ -1,0 +1,48 @@
+.outputPad {
+	padding: 5px;
+}
+.loadMore {
+	display: none;
+}
+.logo{
+    font-family: 'Barrio', cursive;
+    
+    padding: 20px;
+    
+   
+}
+
+body {
+    background-color: red;
+}
+
+#bigger{
+    font-size: 54px;
+}
+#txtSearchTerm{
+    font-size: 30px;
+    padding-left:10px;
+}
+#btnSearch{
+    background-color: #43a047; /* Green */
+     
+          border: none;
+          color: white;
+          padding: 13px 32px;
+          text-align: center;
+          text-decoration: none;
+          font-size: 16px;
+    display: inline-block;
+       
+    font-family: 'Barrio', cursive;
+    vertical-align: bottom;
+}
+#loadMoreText{
+    font-family: 'Barrio', cursive;
+    font-size: 50px
+}
+#loadMoreButton{
+  
+     
+    
+}
